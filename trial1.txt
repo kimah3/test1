@@ -10,4 +10,9 @@ CRUD(Create, Read, Update, Delete)
 
 delete 하는 방법: tortoise git > show log > 맨 윗창에서 가장 마지막 버전이 되었으면 하는 라인에서 우클릭 > Reset 'master' 클릭 > reset type에서 Hard 클릭하고  OK 클릭 > 창의 맨 아래의 Refresh를 누르면 이전에 작업했던 내용이 사라져있을 것이다.
 
+Reset: 중간에 작업했던 버전으로 돌아가면서 그 사이에 작업했던 모든 내용들을 삭제함
+
+Revert: 중간에 작업했던 버전으로 돌아가면서 그 사이에 작업했던 모든 내용들은 살아있게 된다. 그리고 중간에 작업했던 버전은 카피가 되어 가장 latest version으로 저장됨.
+
+
 
