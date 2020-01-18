@@ -2,3 +2,9 @@ hello world
 2
 show log --> 맨 윗창에 우클릭--> SHA-1클릭 --> 버전의 이름을 확인할 수 있음(version ID, commit ID, limit(?) ID)
 
+CRUD(Create, Read, Update, Delete)
+ - Create: commit (?)
+ - Read: show log
+ - Update: 사용할 일이 별로 없다고 합니다.
+ - Delete: working tree에서 버전을 삭제한다(추천하지 않는다)
+
