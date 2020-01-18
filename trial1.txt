@@ -34,7 +34,14 @@ Github 기준
 3. git이 설치된 폴더로 가서 우클릭> Tortoisegit > '설정' 클릭
 4. git 아래 remote 클릭
 5. Github 홈페이지에서 http 주소창에 있는 주소를 '설정' 창의 'URL'이라고 써있는 창에 카피하고 저장함 (일단 remote 이름은 origin이라고 해 둠)
-6. git이 설치된 폴더로 다시 가서 우클릭 > Git Sync 클릭 > Push 클릭 > github 로그인 아이디와 패스워드 입력 > success 뜨면 성공한 것임
+
+* push 방법
+ - git이 설치된 폴더로 다시 가서 우클릭 > Git Sync 클릭 > Push 클릭 > github 로그인 아이디와 패스워드 입력 > success 뜨면 성공한 것임
+
+* pull 방법
+ - 다른 폴더나 컴퓨터의 폴더로 가서 아까 저장했던 파일을 다운로드받을 만한 폴더를 생성한다.
+ - 폴더 안으로 들어가서 우클릭 > git Sync 클릭 > 위에 push 했을 때 쓴 URL을 복사해서 붙여놓고 그 밑에 칸에서 저장할 디렉토리 이름을 설정해 줌 > push였나? 그거 클릭
+
 
 
 
