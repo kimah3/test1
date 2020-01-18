@@ -1,3 +1,7 @@
+1. download
+ - https://tortoisegit.org/
+ - https://git-scm.com/
+
 hello world
 2
 show log --> 맨 윗창에 우클릭--> SHA-1클릭 --> 버전의 이름을 확인할 수 있음(version ID, commit ID, limit(?) ID)
