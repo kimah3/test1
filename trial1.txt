@@ -19,5 +19,10 @@ Reset: 중간에 작업했던 버전으로 돌아가면서 그 사이에 작업�
 
 Revert: 중간에 작업했던 버전으로 돌아가면서 그 사이에 작업했던 모든 내용들은 살아있게 된다. 그리고 중간에 작업했던 버전은 카피가 되어 가장 latest version으로 저장됨.
 
+git hosting
+ - open/private
+
+commit
+
 
 
