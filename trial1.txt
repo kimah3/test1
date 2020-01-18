@@ -1,6 +1,7 @@
 hello world
 2
 show log --> 맨 윗창에 우클릭--> SHA-1클릭 --> 버전의 이름을 확인할 수 있음(version ID, commit ID, limit(?) ID)
+앞전파일과 수정된 내용을 확인하는 법: show log --> 세번째 창 더블클릭
 
 CRUD(Create, Read, Update, Delete)
  - Create: commit (?)
