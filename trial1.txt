@@ -42,6 +42,12 @@ Github 기준
  - 다른 폴더나 컴퓨터의 폴더로 가서 아까 저장했던 파일을 다운로드받을 만한 폴더를 생성한다.
  - 폴더 안으로 들어가서 우클릭 > git Sync 클릭 > 위에 push 했을 때 쓴 URL을 복사해서 붙여놓고 그 밑에 칸에서 저장할 디렉토리 이름을 설정해 줌 > push였나? 그거 클릭
 
+* open source download 예제
+ - git-scm.com 접속해서 우측 중간쯤에 'source code' 클릭
+ - 우측에 초록색 'clone or download' 버튼 클릭하면 url 나오는데 그걸 복사
+ - 저장하고 싶은 폴더에 가서 우클릭 > git sync 클릭 > 복사한 url 카피해서 넣음 저장(??)
+ 
+
 
 
 
